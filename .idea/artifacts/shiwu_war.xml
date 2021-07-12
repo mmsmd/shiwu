@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="shiwu:war">
+    <output-path>$PROJECT_DIR$/classes/artifacts/shiwu_war</output-path>
+    <root id="archive" name="shiwu_war.war">
+      <element id="artifact" artifact-name="shiwu:war exploded" />
+    </root>
+  </artifact>
+</component>

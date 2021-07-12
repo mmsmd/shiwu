@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/WebRoot/My97DatePicker/开发包/lang/zh-cn.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebRoot/My97DatePicker/开发包/lang/zh-tw.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebRoot/My97DatePicker/开发包/readme.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebRoot/My97DatePicker/开发包/skin/default/datepicker.css" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebRoot/My97DatePicker/开发包/skin/whyGreen/datepicker.css" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebRoot/css/base.css" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebRoot/css/dtree.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebRoot/css/layout.css" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/action/bumen_servlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/action/gangwei_servlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/action/hdry_servlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/action/huodong_servlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/action/kaoping_servlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/action/news_servlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/action/user_servlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/dao/DB.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/util/DateUtils.java" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
